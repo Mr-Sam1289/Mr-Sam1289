@@ -16,6 +16,7 @@
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1ngrdfI_pZfVhum6cvCHPxhfiE7EMGIwM/view?usp=drive_link)
 - ⚡ Fun fact: **"Programmers prefer dark themes because light attracts bugs!"**
 
+<hr>
 
 <h3 align="left">💻Tech Stack:</h3>
 <p align="left">
@@ -31,7 +32,7 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
 </p>
 
-
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,7 +43,7 @@
     <a href="https://www.leetcode.com/mr-sam" target="_blank" title="LeetCode"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
 
-
+<hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-sam1289&show_icons=true&locale=en&layout=compact" alt="mr-sam1289" /></p>
 
