@@ -1,7 +1,4 @@
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJpNzdybHNlZHlqdjYwdTB1a2Z4bnNncHBwNmRqZ21wa2pqNG40MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zyFcsWHX2fdpyb5SBi/giphy.webp" alt="MasterHead" width="1000" style="max-width: 100%;" />
-
-
 <h1 align="center">Hi 👋, I'm ABHISHEK M</h1>
 <h3 align="center">A passionate innovator from India, integrating web and app development experience with a strong interest in cybersecurity.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
