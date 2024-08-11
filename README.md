@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Mr-Sam1289)
 - 💬 Ask me about **Mobile app development, Cybersecurity fundamentals**
 - 📫 How to reach me: **abhisamshek1212@gmail.com**
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1LXrJzbwoaOr6Ok0kWuSVoIVW0qv9_qsY/view?usp=drive_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1TBEodawmZqcsg2DtlJPOm4wQfdvb1H_F/view?usp=drive_link)
 - ⚡ Fun fact: **"Programmers prefer dark themes because light attracts bugs!"**
 
 <hr>
